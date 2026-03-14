@@ -10,7 +10,7 @@ Motivated Computer Engineering graduate seeking a SOC Analyst or Cybersecurity r
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Malware Detection and Analysis                | <a href="https://google.com">Detection Lab</a>|
 | Network Security and Segmentation             | <a href="https://google.com">Detection Lab</a>|
 
 
