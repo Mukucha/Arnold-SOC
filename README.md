@@ -31,7 +31,7 @@ Motivated Computer Engineering graduate seeking a SOC Analyst or Cybersecurity r
 
 </div>
 
-## Certifications
+### Certifications
 <div>
   <a href="https://www.credly.com/badges/fd6afdf3-2bb0-4cb4-8bc6-d9b8ecbba81b" target="_blank">
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
@@ -40,7 +40,7 @@ Motivated Computer Engineering graduate seeking a SOC Analyst or Cybersecurity r
     <img src="https://img.shields.io/badge/-Cisco%20CCNA-0080FF?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco CCNA Badge"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/arnoldmukucha-5265/credentials/53e123fcd518d77e" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft%20AZ-104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft AZ-104 Badge"/>
+    <img src="https://img.shields.io/badge/-AZURE%20104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft AZ-104 Badge"/>
   </a>
 </div>
 
