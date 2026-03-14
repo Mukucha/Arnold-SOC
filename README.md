@@ -7,7 +7,6 @@ Computer Engineering graduate with a strong focus on Security Operations (SOC) a
 Motivated Computer Engineering graduate seeking a SOC Analyst or Cybersecurity role to apply skills in threat detection, incident response, and cloud security to help protect and strengthen organizational infrastructure.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
