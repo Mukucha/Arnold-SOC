@@ -40,7 +40,7 @@ Motivated Computer Engineering graduate seeking a SOC Analyst or Cybersecurity r
     <img src="https://img.shields.io/badge/-Cisco%20CCNA-0080FF?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco CCNA Badge"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/arnoldmukucha-5265/credentials/53e123fcd518d77e" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft%20AZ-104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft AZ-104 Badge"/>
+    <img src="https://learn.microsoft.com/certification/badge/AZ-104.png" alt="Microsoft AZ-104 Badge" style="height:28px;"/>
   </a>
 </div>
 
